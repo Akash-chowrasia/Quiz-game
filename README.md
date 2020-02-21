@@ -1,5 +1,5 @@
 # Quiz-game
-This is a fantastic quiz game made using basic c++.
+This is a fantastic quiz game made using basic c++.</br>
 game consists of three sets of 10 question.
 time provided to solve each question will be 15 seconds.
 player will provided with a auto generated registration number and a self made password, using wich player may play any set at any time after registration as per his/her time matching.
