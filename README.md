@@ -1,6 +1,6 @@
 # Quiz-game
 This is a fantastic quiz game made using basic c++.</br>
-<b>Facility's to player</b></br>
+<b style="color:red;">Facility's to player</b></br>
 game consists of three sets of 10 question.</br>
 time provided to solve each question will be 15 seconds.</br>
 player will provided with a auto generated registration number and a self made password, using wich player may play any set at any time after registration as per his/her time matching.</br>
